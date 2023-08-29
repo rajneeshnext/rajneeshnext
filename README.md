@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**rajneeshnext/rajneeshnext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✤ My areas of expertise include:
 
-Here are some ideas to get you started:
+Development Skills: PHP, Laravel, WordPress, WooCommerce, Shopify, and integration with various APIs such as ZOHO, Xero, Quickbook, Pipedrive, Google API, and many more. Strong skills in WordPress plugin development and customization, multi-vendor plugins, barcodes, and ticket systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[upwork]https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
+
+✤ Database: MySQL, MongoDB
+
+✤ Designing: I have proficiency in tools like Figma, and I am experienced in HTML5, CSS3, and Bootstrap (Responsive) and can convert Figma/XD/PSD designs to responsive websites. Logical understanding makes me an expert in dealing with JavaScript, jQuery, and Ajax.
+
+I have developed numerous websites for startups and businesses throughout my career. I always stay updated with the latest technology trends and work closely with my clients to ensure their websites are the best they can be.
+
+I am known for writing well-structured, well-documented, understandable, and efficient code. When working with my clients, my goal is always to establish long-term relationships and provide excellent after-sales service. I am committed to delivering long-term support and maintaining a healthy and fruitful work relationship with you.
+
+If you are looking for a highly skilled and reliable freelancer to bring your ideas to life, please feel free to reach out. I am excited to work with you and create something exceptional.
+
+Regards,
+Rajneesh
+
