@@ -4,7 +4,7 @@
 
 Development Skills: PHP, Laravel, WordPress, WooCommerce, Shopify, and integration with various APIs such as ZOHO, Xero, Quickbook, Pipedrive, Google API, and many more. Strong skills in WordPress plugin development and customization, multi-vendor plugins, barcodes, and ticket systems.
 
-[upwork]https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
+[Freelance Profile](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/).
 
 ✤ Database: MySQL, MongoDB
 
