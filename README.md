@@ -6,8 +6,6 @@ Development Skills: PHP, Laravel, WordPress, WooCommerce, Shopify, and integrati
 
 [My Freelancing Profile](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=rwUYqbUXuZrXoKEM&amp;list=PLGHoxtPWurJAZmcljnH-ZGdcroHP2OlY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ✤ Database: MySQL, MongoDB
 
 ✤ Designing: I have proficiency in tools like Figma, and I am experienced in HTML5, CSS3, and Bootstrap (Responsive) and can convert Figma/XD/PSD designs to responsive websites. Logical understanding makes me an expert in dealing with JavaScript, jQuery, and Ajax.
