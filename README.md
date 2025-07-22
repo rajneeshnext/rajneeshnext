@@ -1,21 +1,51 @@
-### Hi there 👋
+🚀 AI-Powered Solutions for Rentals, Workflows & Business Automation
 
-✤ My areas of expertise include:
+Hi, I’m Rajneesh — a Top-Rated Full-Stack Developer with 12+ years of experience and a 100% Job Success Score on Upwork. I help rental businesses, startups, and teams turn ideas into scalable tools using AI, automation, and API-driven development.
 
-Development Skills: PHP, Laravel, WordPress, WooCommerce, Shopify, and integration with various APIs such as ZOHO, Xero, Quickbook, Pipedrive, Google API, and many more. Strong skills in WordPress plugin development and customization, multi-vendor plugins, barcodes, and ticket systems.
+From property tech to payment systems, I specialize in building solutions that save time, boost revenue, and grow with your business.
 
 [My Freelancing Profile](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/).
 
-✤ Database: MySQL, MongoDB
+🔧 What I Build:
 
-✤ Designing: I have proficiency in tools like Figma, and I am experienced in HTML5, CSS3, and Bootstrap (Responsive) and can convert Figma/XD/PSD designs to responsive websites. Logical understanding makes me an expert in dealing with JavaScript, jQuery, and Ajax.
+✅ AI & Automation Workflows
 
-I have developed numerous websites for startups and businesses throughout my career. I always stay updated with the latest technology trends and work closely with my clients to ensure their websites are the best they can be.
+ChatGPT/OpenAI-powered tools (content writers, bots, smart forms)
+Task automation, lead handling, and dynamic responses
+Custom GPT-4 integrations for real estate, CRM, and ecommerce
 
-I am known for writing well-structured, well-documented, understandable, and efficient code. When working with my clients, my goal is always to establish long-term relationships and provide excellent after-sales service. I am committed to delivering long-term support and maintaining a healthy and fruitful work relationship with you.
+✅ Rental & Booking Platforms
 
-If you are looking for a highly skilled and reliable freelancer to bring your ideas to life, please feel free to reach out. I am excited to work with you and create something exceptional.
+Guesty, Beds24, Hostaway, Lodgify integrations
+Custom WordPress booking tools & multi-vendor setups
+Calendar sync, automated emails, payment flows
 
-Regards,
-Rajneesh
+✅ Smart API Development
+
+Stripe, Twilio, SendGrid, ZOHO, Pipedrive, Google APIs
+Real-time data sync and third-party integrations
+Secure, scalable, and built for growth
+
+✅ Modern Web & UI
+
+WordPress & WooCommerce (plugins, themes, custom workflows)
+Responsive front-ends with HTML5, JS, AJAX, jQuery
+Figma/PSD to pixel-perfect WordPress sites
+
+✅ Back-End & Database
+
+MySQL, MongoDB
+
+Fast, stable, and secure back-end systems
+💬 Why Clients Hire Me Again & Again:
+I build fast, clean, and scalable solutions
+I think like a product owner, not just a coder
+I’m clear, communicative, and reliable
+I offer real post-launch support, not just handoffs
+
+Let’s build a smarter system — whether it’s a rental automation tool, an AI listing generator, or a robust WooCommerce platform.
+
+📩 Reach out if you’re looking for a developer who delivers — and understands your business.
+
+— Rajneesh
 
