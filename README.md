@@ -14,15 +14,15 @@ ChatGPT/OpenAI-powered tools (content writers, bots, smart forms)
 Task automation, lead handling, and dynamic responses
 Custom GPT-4 integrations for real estate, CRM, and ecommerce
 
-✅ Rental & Booking Platforms
+✅ Full Vacation Rentals Websites with Booking Integration with marketing channels AirBNB
 
-Guesty:- [Watch Video](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR)
+Guesty API:- [Watch Video](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR)
 
-Beds24:- [Watch Video](https://youtu.be/J7Z4Ixv6Wrk?si=4vG_VWQrNvXcf-DG)
+Beds24 API:- [Watch Video](https://youtu.be/J7Z4Ixv6Wrk?si=4vG_VWQrNvXcf-DG)
 
-Hostaway:- [Watch Video](https://youtu.be/BS0cOftgS68?si=FDSQ1KSbVlU5Jyxn) 
+Hostaway API:- [Watch Video](https://youtu.be/BS0cOftgS68?si=FDSQ1KSbVlU5Jyxn) 
 
-Lodgify:- [Watch Video](https://youtu.be/_YXK-UXJjzU?si=WMeUHyhJLNWTnOPc) 
+Lodgify API:- [Watch Video](https://youtu.be/_YXK-UXJjzU?si=WMeUHyhJLNWTnOPc) 
 
 integrations
 
