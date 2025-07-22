@@ -17,8 +17,11 @@ Custom GPT-4 integrations for real estate, CRM, and ecommerce
 ✅ Rental & Booking Platforms
 
 Guesty:- [Watch Video](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR)
+
 Beds24:- [Watch Video](https://youtu.be/J7Z4Ixv6Wrk?si=4vG_VWQrNvXcf-DG)
+
 Hostaway:- [Watch Video](https://youtu.be/BS0cOftgS68?si=FDSQ1KSbVlU5Jyxn) 
+
 Lodgify:- [Watch Video](https://youtu.be/_YXK-UXJjzU?si=WMeUHyhJLNWTnOPc) 
 
 integrations
