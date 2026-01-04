@@ -1,60 +1,87 @@
-🚀 AI-Powered Solutions for Rentals, Workflows & Business Automation
+🚀 Building Scalable Systems for Rentals, Automation & API-Driven Products
 
-Hi, I’m Rajneesh — a Top-Rated Full-Stack Developer with 12+ years of experience and a 100% Job Success Score on Upwork. I help rental businesses, startups, and teams turn ideas into scalable tools using AI, automation, and API-driven development.
+Hi, I’m Rajneesh — a full-stack developer with 12+ years of experience building production-ready systems for rental businesses, startups, and growing teams.
 
-From property tech to payment systems, I specialize in building solutions that save time, boost revenue, and grow with your business.
+I specialize in property tech, automation, and API-first development, turning complex workflows into fast, reliable, and scalable tools. My work spans mobile apps, booking platforms, backend systems, and integrations that save time, reduce manual effort, and scale cleanly.
 
-[My Freelancing Profile](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/).
+I currently focus heavily on vacation rental platforms, direct booking systems, and performance-optimized Flutter & WordPress applications.
 
-🔧 What I Build:
+🔗 Freelancing profile (Top-Rated, 100% Job Success):
+https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
 
-✅ AI & Automation Workflows
+🔧 What I Build
+🏠 Vacation Rental Platforms & Booking Systems
 
-ChatGPT/OpenAI-powered tools (content writers, bots, smart forms)
-Task automation, lead handling, and dynamic responses
-Custom GPT-4 integrations for real estate, CRM, and ecommerce
+Full rental websites with direct booking
 
-✅ Full Vacation Rentals Websites with Booking Integration with marketing channels like AirBNB, Vrbo, Booking.com, Expedia, and TripAdvisor
+OTA integrations: Airbnb, Vrbo, Booking.com, Expedia, TripAdvisor
 
-Guesty API:- [Watch Video](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR)
+PMS integrations and custom workflows:
 
-Beds24 API:- [Watch Video](https://youtu.be/J7Z4Ixv6Wrk?si=4vG_VWQrNvXcf-DG)
+Guesty API – Video
 
-Hostaway API:- [Watch Video](https://youtu.be/BS0cOftgS68?si=FDSQ1KSbVlU5Jyxn) 
+Beds24 API – Video
 
-Lodgify API:- [Watch Video](https://youtu.be/_YXK-UXJjzU?si=WMeUHyhJLNWTnOPc) 
+Hostaway API – Video
 
-integrations
+Lodgify API – Video
 
-Custom WordPress booking tools & multi-vendor setups
-Calendar sync, automated emails, payment flows
+Calendar sync, pricing logic, availability rules
 
-✅ Smart API Development
+Automated emails, payments, and guest flows
 
-Stripe, Twilio, SendGrid, ZOHO, Pipedrive, Google APIs
-Real-time data sync and third-party integrations
-Secure, scalable, and built for growth
+🤖 Automation & AI-Powered Tools
 
-✅ Modern Web & UI
+OpenAI / ChatGPT integrations
 
-WordPress & WooCommerce (plugins, themes, custom workflows)
-Responsive front-ends with HTML5, JS, AJAX, jQuery
-Figma/PSD to pixel-perfect WordPress sites
+AI-driven content tools, bots, and smart forms
 
-✅ Back-End & Database
+Workflow automation for rentals, CRM, and ecommerce
+
+Lead handling, messaging, and data enrichment
+
+🔌 API-First Development
+
+Payment & communication APIs:
+
+Stripe, PayPal, Twilio, SendGrid
+
+CRM & business tools:
+
+Zoho, Pipedrive, Google APIs
+
+Secure, scalable, and maintainable integrations
+
+Real-time data sync across platforms
+
+🌐 Web, Mobile & UI
+
+Flutter mobile apps (Android / iOS)
+
+WordPress & WooCommerce (custom plugins, booking logic)
+
+Performance-focused UI and clean UX
+
+Figma / PSD → pixel-perfect implementations
+
+🗄️ Backend & Data
+
+PHP, REST APIs
 
 MySQL, MongoDB
 
-Fast, stable, and secure back-end systems
-💬 Why Clients Hire Me Again & Again:
-I build fast, clean, and scalable solutions
-I think like a product owner, not just a coder
-I’m clear, communicative, and reliable
-I offer real post-launch support, not just handoffs
+Stable, secure, and scalable systems
 
-Let’s build a smarter system — whether it’s a rental automation tool, an AI listing generator, or a robust WooCommerce platform.
+💬 How I Work
 
-📩 Reach out if you’re looking for a developer who delivers — and understands your business.
+I think like a product owner, not just a developer
+
+I optimize for performance, reliability, and long-term growth
+
+I communicate clearly and ship clean, production-ready code
+
+I support projects after launch, not just until delivery
+
+📩 If you’re building a rental platform, automation system, or API-driven product, feel free to reach out.
 
 — Rajneesh
-
