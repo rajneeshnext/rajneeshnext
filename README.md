@@ -6,8 +6,7 @@ I specialize in property tech, automation, and API-first development, turning co
 
 I currently focus heavily on vacation rental platforms, direct booking systems, and performance-optimized Flutter & WordPress applications.
 
-🔗 Freelancing profile (Top-Rated, 100% Job Success):
-https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
+🔗 : [Freelancing profile (Top-Rated, 100% Job Success)]([https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/)) 
 
 🔧 What I Build
 
@@ -15,14 +14,14 @@ https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
 - Full rental websites with direct booking
 - OTA integrations: Airbnb, Vrbo, Booking.com, Expedia, TripAdvisor
 - PMS integrations and custom workflows:
+- Calendar sync, pricing logic, availability rules
 
 🔧 My Work Demos
 
-- Guesty API – Video
-- Beds24 API – Video
-- Hostaway API – Video
-- Lodgify API – Video
-- Calendar sync, pricing logic, availability rules
+- Guesty API:- [Watch Video](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR) 
+- Beds24 API:- [Watch Video](https://youtu.be/J7Z4Ixv6Wrk?si=4vG_VWQrNvXcf-DG)
+- Hostaway API:- [Watch Video](https://youtu.be/BS0cOftgS68?si=FDSQ1KSbVlU5Jyxn)
+- Lodgify API:- [Watch Video](https://youtu.be/_YXK-UXJjzU?si=WMeUHyhJLNWTnOPc)
 
 🔧Automated emails, payments, and guest flows
 
@@ -31,6 +30,7 @@ https://www.upwork.com/freelancers/~01eaec214a52bc2d20/
 - AI-driven content tools, bots, and smart forms
 - Workflow automation for rentals, CRM, and ecommerce
 - Lead handling, messaging, and data enrichment
+- Calendar sync, pricing logic, availability rules
 
 🔌 API-First Development
 
