@@ -6,7 +6,7 @@ I specialize in property tech, automation, and API-first development, turning co
 
 I currently focus heavily on vacation rental platforms, direct booking systems, and performance-optimized Flutter & WordPress applications.
 
-🔗 : [Freelancing profile (Top-Rated, 100% Job Success)]([https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/)) 
+🔗 : [Freelancing profile (Top-Rated, 100% Job Success)](https://youtu.be/57gXzT5Mfqw?si=kWT4mx588BLfPsZR](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/) 
 
 🔧 What I Build
 
