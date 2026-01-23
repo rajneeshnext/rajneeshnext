@@ -8,6 +8,8 @@ I currently focus heavily on vacation rental platforms, direct booking systems, 
 
 🔗 : [Hire Me for Direct Booking Websites & Rental API Integrations](https://www.boldertechnologies.net/vacation-rental-api-integration/)
 
+🔗 : [Direct Booking Mobile Apps for Vacation Rental Owners](https://www.boldertechnologies.net/vacation-rental-mobile-app-development/)
+
 🔗 : [Custom API Development, Automation & Integrations](https://www.boldertechnologies.net/)
 
 🔗 : [Upwork Profile — Top-Rated Developer (100% Job Success))](https://www.upwork.com/freelancers/~01eaec214a52bc2d20/) 
